@@ -28,6 +28,8 @@ export function Footer() {
           <p className="text-muted-foreground text-sm text-center">
             © {new Date().getFullYear()} Rali Creative Media. All rights reserved. <br />
             <span className="text-xs opacity-50">Shop #4, Udi Hills Close, Karewa GRA-Jimeta, Yola, Nigeria</span>
+            <br />
+            <span className="text-xs opacity-60">Developed by Daniel Ishaku, Toko Technologies</span>
           </p>
 
           <div className="flex items-center gap-6">
